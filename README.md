@@ -7,6 +7,7 @@ This repository contains the Angular projects created during the [Udemy Course *
 The Angular projects are the following
 1. My Fist App:
     * https://bitbucket.org/macervero/my-first-app (Bitbucket - Private)
+    * https://github.com/macervero/my-first-app (GitHub - Public)
 
 
 # Submodules configuration #
