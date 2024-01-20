@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains the Angular projects created during the [Udemy Course *Angular - The Complete Guide (2024 Edition)*](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/13914134#overview) by **Maximilian Schwarzmüller**.
 
-### What is this repository for? ###
+# Projects #
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+The Angular projects are the following
+1. My Fist App:
+    * https://bitbucket.org/macervero/my-first-app (Bitbucket - Private)
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+# Submodules configuration #
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
