@@ -1,3 +1,6 @@
 [submodule "my-first-app"]
 	path = my-first-app
 	url = ../my-first-app
+[submodule "basics-assignment-1-start"]
+	path = basics-assignment-1-start
+	url = ../basics-assignment-1-start
