@@ -7,3 +7,6 @@
 [submodule "basics-assignment-2-start"]
 	path = basics-assignment-2-start
 	url = ../basics-assignment-2-start
+[submodule "basics-assignment-3-start"]
+	path = basics-assignment-3-start
+	url = ../basics-assignment-3-start
