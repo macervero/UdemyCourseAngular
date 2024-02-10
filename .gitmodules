@@ -12,4 +12,4 @@
 	url = ../basics-assignment-3-start
 [submodule "course-project-starting-project"]
 	path = course-project-starting-project
-	url = https://bitbucket.org/macervero/course-project-starting-project
+	url = ../course-project-starting-project
